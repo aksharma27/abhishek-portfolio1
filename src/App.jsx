@@ -284,7 +284,8 @@ export default function App() {
   const skills = [
     "Java", "Spring Boot", "AWS", "React", "TypeScript",
     "Render", "Vercel", "Netlify", "DSA", "Full Stack Dev",
-    "Distributed Systems", "Microservices", "Microfrontend", "Webpack"
+    "Distributed Systems", "Microservices", "Microfrontend", "Webpack", "nodejs", 
+    "expressjs", "SEO", "supabase", "MongoDB", "PostgresSQL", "Javascript", "Python"
   ];
 
   return (
@@ -327,7 +328,7 @@ export default function App() {
             <h1 className="typing-text">Hi, I am Abhishek.</h1>
           </div>
           <p className="hero-subtitle">
-            24-year-old Full Stack Engineer with expertise in building resilient distributed systems, high-throughput Spring Boot backends, and modular Microfrontends.
+            24-year-old Full Stack Engineer with expertise in building resilient distributed systems, high-throughput backend systems, frontends. Expertise in Java, Springboot, NodeJs, AI integrations, LLMs, etc.
           </p>
         </div>
 
@@ -346,19 +347,19 @@ export default function App() {
             <div className="timeline">
               <div className="timeline-item">
                 <div className="timeline-dot active"></div>
-                <div className="timeline-title">SDE-1</div>
+                <div className="timeline-title">SDE-1 (2025-present)</div>
                 <div className="timeline-company">Philips</div>
                 <div className="timeline-date">Full-Time</div>
               </div>
               <div className="timeline-item">
                 <div className="timeline-dot"></div>
-                <div className="timeline-title">SDE Intern</div>
+                <div className="timeline-title">SDE Intern(2024-2025)</div>
                 <div className="timeline-company">Philips</div>
                 <div className="timeline-date">Internship</div>
               </div>
               <div className="timeline-item">
                 <div className="timeline-dot"></div>
-                <div className="timeline-title">Software Engineer Intern</div>
+                <div className="timeline-title">Intern(2023-2024)</div>
                 <div className="timeline-company">HighRadius</div>
                 <div className="timeline-date">Internship</div>
               </div>
@@ -370,7 +371,7 @@ export default function App() {
             <div style={{ background: 'var(--bg-input)', padding: '20px', borderRadius: '8px' }}>
               <div style={{ color: 'var(--primary)', fontSize: '0.85rem', fontWeight: 'bold', marginBottom: '8px', textTransform: 'uppercase' }}>Graduating Class of 2025</div>
               <div style={{ fontWeight: 'bold', fontSize: '1.3rem', color: 'white' }}>B.Tech in Computer Science</div>
-              <div style={{ color: 'var(--text-muted)', marginTop: '4px' }}>SOA University</div>
+              <div style={{ color: 'var(--text-muted)', marginTop: '4px' }}>SOA University(2021-2025)</div>
             </div>
           </div>
         </section>
