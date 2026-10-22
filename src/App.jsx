@@ -328,12 +328,18 @@ export default function App() {
             <h1 className="typing-text">Hi 👋, I'm Abhishek</h1>
           </div>
           <p className="hero-subtitle">
-            A 24 y/o Full time Learner, part time Engineer. Having experience in building full stack cloud native applications. Interested in Backend Development and distributed systems. Experienced in Java, Springboot, NodeJS, AI integrations, LLMs.
-            I am highly inquisitive when it comes to Space tech, partical theory, mathematics, blockchain and Low latency systems. My dream was always to be an Astronaut or a Cricketer, but I enjoy writing business logics as well. 
-            If you want to argue with me, bring a topic on space, intersteller travel, dyson sphere or a hell lot of interstellar topics, it will be fun.
-            Coming to my hobbies, I like clicking pictures, videography, blogging, playing cricket, hiking, driving manual cars and go carting.
-            Talking about CS, I enjoyed competitive programming, logical thinking and prob solving, not much into writing ui code.
+            A 24 y/o Full time Learner, part time Engineer. Having experience in building full stack cloud native applications.  
           </p>
+        <p> 
+        Interested in Backend Development and distributed systems. Experienced in Java, Springboot, NodeJS, AI integrations, LLMs.
+            I am highly inquisitive when it comes to Space tech, partical theory, mathematics, blockchain and Low latency systems.
+          <br>
+            My dream was always to be an Astronaut or a Cricketer, but I enjoy writing business logics as well. 
+          <br> If you want to argue with me, bring a topic on space, intersteller travel, dyson sphere or a hell lot of interstellar topics, it will be fun.
+          <br>Coming to my hobbies, I like clicking pictures, videography, blogging, playing cricket, hiking, driving manual cars and go carting.
+          <br>In tech, I enjoy competitive programming, logical thinking and prob solving, exploring new tools, not much into writing ui code.
+          
+        </p>
         </div>
 
         {/* Himalayan Mountains SVG Silhouette Blending into the site */}
