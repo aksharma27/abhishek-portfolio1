@@ -336,7 +336,7 @@ export default function App() {
           <br/>
             My dream was always to be an Astronaut or a Cricketer, but I enjoy writing business logics as well. 
           <br/> If you want to argue with me, bring a topic on space, intersteller travel, dyson sphere or a hell lot of interstellar topics, it will be fun.
-          <br/>Coming to my hobbies, I like clicking pictures, videography, blogging, playing cricket, hiking, driving manual cars and go carting.
+          <br/>Coming to my hobbies, I like clicking pictures, videography, blogging, playing cricket, hiking, driving manual cars and go karting.
           <br/>In tech, I enjoy competitive programming, logical thinking and prob solving, exploring new tools, not much into writing ui code.
           
         </p>
