@@ -325,7 +325,7 @@ export default function App() {
         {/* Typography Content */}
         <div className="hero-content">
           <div className="typing-container">
-            <h1 className="typing-text">Hi 👋, I'm Abhishek</h1>
+            <h1 className="typing-text">Hi👋 I'm Abhishek</h1>
           </div>
           <p className="hero-subtitle">
             A 24 y/o Full time Learner, part time Engineer. Having experience in building full stack cloud native applications.  
