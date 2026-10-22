@@ -302,7 +302,7 @@ export default function App() {
             </a>
             <nav className="nav-links">
               <a href="https://your-blog.com" target="_blank" rel="noreferrer" className="blog-btn">
-                Blogs <Icons.Link />
+                Blogs(under development) <Icons.Link />
               </a>
               {isAdmin && (
                 <button onClick={() => supabase.auth.signOut()} className="logout-btn">
@@ -325,10 +325,14 @@ export default function App() {
         {/* Typography Content */}
         <div className="hero-content">
           <div className="typing-container">
-            <h1 className="typing-text">Hi, I am Abhishek.</h1>
+            <h1 className="typing-text">Hi 👋, Abhishek here.</h1>
           </div>
           <p className="hero-subtitle">
-            24-year-old Full Stack Engineer with expertise in building resilient distributed systems, high-throughput backend systems, frontends. Expertise in Java, Springboot, NodeJs, AI integrations, LLMs, etc.
+            A 24 y/o Full time Learner, part time Engineer. Having experience in building full stack cloud native applications. Interested in Backend Development and distributed systems. Experienced in Java, Springboot, NodeJS, AI integrations, LLMs.
+            I am highly inquisitive when it comes to Space tech, partical theory, mathematics, blockchain and Low latency systems. My dream was always to be an Astronaut or a Cricketer, but I enjoy writing business logics as well. 
+            If you want to argue with me, bring a topic on space, intersteller travel, dyson sphere or a hell lot of interstellar topics, it will be fun.
+            Coming to my hobbies, I like clicking pictures, videography, blogging, playing cricket, hiking, driving manual cars and go carting.
+            Talking about CS, I enjoyed competitive programming, logical thinking and prob solving, not much into writing ui code.
           </p>
         </div>
 
@@ -347,19 +351,19 @@ export default function App() {
             <div className="timeline">
               <div className="timeline-item">
                 <div className="timeline-dot active"></div>
-                <div className="timeline-title">SDE-1 (2025-present)</div>
+                <div className="timeline-title">Software Engineer-1 (2025-present)</div>
                 <div className="timeline-company">Philips</div>
                 <div className="timeline-date">Full-Time</div>
               </div>
               <div className="timeline-item">
                 <div className="timeline-dot"></div>
-                <div className="timeline-title">SDE Intern(2024-2025)</div>
+                <div className="timeline-title">SDE Intern(Aug 2024- Aug 2025)</div>
                 <div className="timeline-company">Philips</div>
                 <div className="timeline-date">Internship</div>
               </div>
               <div className="timeline-item">
                 <div className="timeline-dot"></div>
-                <div className="timeline-title">Intern(2023-2024)</div>
+                <div className="timeline-title">Intern(Jun 2024-Aug 2024)</div>
                 <div className="timeline-company">HighRadius</div>
                 <div className="timeline-date">Internship</div>
               </div>
